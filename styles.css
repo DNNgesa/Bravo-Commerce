@@ -1,0 +1,50 @@
+html{
+    background-color: rgba(222, 222, 222, 0.426);
+    padding: 50px;
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+    padding: 30px;
+
+}
+
+input{
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: rgb(228, 227, 227);
+}
+
+button{
+    background-color: orange;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.fashion-categories{
+    background-color: white;
+    display: flex;
+    border-radius: 10px;
+}
+
+.fashion-categories>img{
+    margin: 10px;
+}
+
+.deals{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.deal-items{
+    display: flex;
+}
+
+.deal-items>img{
+     margin: 10px;
+}
+
